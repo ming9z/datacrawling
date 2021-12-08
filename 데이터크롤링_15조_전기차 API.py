@@ -13,7 +13,7 @@ from numpy.random import randn
 from matplotlib import font_manager, rc
 
 
-ServiceKey="vnqz8NaLxQYvByG6QFkCQO2OEx5FpEMPHFntNI8E3k0ouqtT7ukRZJ9gLA49H9Suu403UaesyhoN3VDr0rzZ0w%3D%3D"
+ServiceKey="vnqz........" #Secret
 
 
 def getRequestUrl(url):
